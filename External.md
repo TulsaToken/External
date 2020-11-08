@@ -11,4 +11,6 @@ Main-net: Eth-BLOCK *ethereum blockchain *gas fee's needed
 
 Banker: TVL Total Value Locked *with support of: BTC/wBTC, ETH/wETH, UNI, BNB.
 
-Total increase: into next Gen. 100,000 Genesis block confirmations
+Total support: into next Gen. 100,000 Genesis block confirmations
+
+*TLA, TulsaToken.
