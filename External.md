@@ -9,7 +9,7 @@ Tulsa code *TLA
 
 Main-net: Eth-BLOCK *ethereum blockchain *gas fee's needed
 
-Banker: TVL Total Value Locked *with support of: BTC/wBTC, ETH/wETH, UNI, BNB.
+Banker: TVL Total Value Locked *with support of: wBTC, ETH/wETH, UNI, BNB, YFI
 
 Total support: into next Gen. 100,000 Genesis block confirmations
 
